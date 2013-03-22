@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   
   s.add_dependency             'guard'
-  s.add_dependency             'sprockets', '~> 2.0'
+  s.add_dependency             'sprockets', '~> 2.9'
   
   s.add_development_dependency 'rspec'
   s.add_development_dependency 'coffee-script'
